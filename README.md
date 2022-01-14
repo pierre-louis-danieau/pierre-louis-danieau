@@ -9,7 +9,7 @@
 
 - 🤝 Different experiences as a Data Scientist : **CREDIT AGRICOLE | THALES | UBIDREAMS**
 
-- 📝 I regularly write articles on [https://fr.quora.com/profile/Pierre-Louis-Danieau-1](https://fr.quora.com/profile/Pierre-Louis-Danieau-1)
+- 📝 I regularly write articles on [Quora](https://fr.quora.com/profile/Pierre-Louis-Danieau-1)
 
 - 📫 How to reach me **pl.danieau@gmail.com**
 
