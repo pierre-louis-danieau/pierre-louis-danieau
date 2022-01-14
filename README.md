@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre-Louis Danieau</h1>
-<h3 align="center"> 🎯 Data | Machine Learning | Product 🎯</h3>
+<h2 align="center"> 🎯 Data | Machine Learning | Product 🎯</h2>
 
 - 🔭 I’m currently building an investment software platform using ML at [MYFO](https://myfo.fr/)
 
