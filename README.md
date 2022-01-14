@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pierre-Louis Danieau</h1>
 <h3 align="center"> 🎯 Data | Machine Learning | Product 🎯</h3>
 
-- 🔭 I’m currently building an investment software platform at [MYFO](https://myfo.fr/)
+- 🔭 I’m currently building an investment software platform using ML at [MYFO](https://myfo.fr/)
 
 - 🌱 I’m currently learning **Software Engineering & Product Management**
 
-- 👯 In my spare time I am a teacher in Data & Machine learning at [JEDHA](https://www.jedha.co/)
+- 👯 In my spare time I am a freelance teacher in Data & Machine learning at [JEDHA](https://www.jedha.co/)
 
 - 🤝 Different experiences as a Data Scientist : **CREDIT AGRICOLE | THALES | UBIDREAMS**
 
