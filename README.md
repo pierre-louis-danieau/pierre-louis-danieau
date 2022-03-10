@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently building an investment software platform using ML at [MYFO](https://myfo.fr/)
 
-- 🌱 I’m currently learning **Software Engineering & Product Management**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👯 In my spare time I am a freelance teacher in Data & Machine learning at [JEDHA](https://www.jedha.co/)
 
