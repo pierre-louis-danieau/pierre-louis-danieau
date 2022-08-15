@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pierre-Louis Danieau</h1>
-<h2 align="center"> 🎯 Data | Machine Learning | Product 🎯</h2>
+<h2 align="center"> 🎯 Data Scientist | Machine Learning 🎯</h2>
 
 - 🔭 I’m currently Data Scientist in a French Fintech at [PAYLEAD](https://paylead.fr/)
 
