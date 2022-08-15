@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pierre-Louis Danieau</h1>
 <h2 align="center"> 🎯 Data | Machine Learning | Product 🎯</h2>
 
-- 🔭 I’m currently building an investment software platform using ML at [MYFO](https://myfo.fr/)
-
-- 🌱 I’m currently learning **Software Engineering**
+- 🔭 I’m currently Data Scientist in a French Fintech at [PAYLEAD](https://paylead.fr/)
 
 - 👯 In my spare time I am a freelance teacher in Data & Machine learning at [JEDHA](https://www.jedha.co/)
 
-- 🤝 Different experiences as a Data Scientist : **CREDIT AGRICOLE | THALES | UBIDREAMS**
-
-- 📝 I regularly write articles on [Quora](https://fr.quora.com/profile/Pierre-Louis-Danieau-1)
+- 🤝 Different experiences as a Data Scientist : **CREDIT AGRICOLE | THALES | UBIDREAMS | MYFO**
 
 - 📫 How to reach me **pl.danieau@gmail.com**
 
