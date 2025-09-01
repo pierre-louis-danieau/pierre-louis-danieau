@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pierre-Louis Danieau</h1>
-<h2 align="center"> Data Scientist | Machine Learning</h2>
+I’m currently Data Scientist in a French Fintech at [Younited](https://www.younited-credit.com/)
 
-- I’m currently Data Scientist in a French Fintech at [PAYLEAD](https://paylead.fr/)
 
-- In my spare time I am a freelance teacher in Data & Machine learning at [JEDHA](https://www.jedha.co/)
-
-- Different experiences as a Data Scientist : **CREDIT AGRICOLE | THALES | UBIDREAMS | MYFO**
+- Different experiences as a Data Scientist : **PAYLEAD | CREDIT AGRICOLE | THALES**
 
 - 📫 How to reach me **pl.danieau@gmail.com**
 
